@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a FRONT END DEVELOPER, using with Vanilla JavaScript ot Luizalabs.<br>At this moment I am studing Reacj.Js, and I am looking for some opportunity to work with this framework.
+At this moment I am studing Reacj.Js, and I am looking for some opportunity to work with this framework.
 
 
 ## 🌐 Socials:
