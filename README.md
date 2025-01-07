@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Web Developer | React | Next.js | JavaScript | Node.js | Scrum
+Frontend Developer | React | Next.js | JavaScript | Node.js | Scrum
 
 
 ## 🌐 Socials:
