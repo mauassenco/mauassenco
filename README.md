@@ -1,9 +1,6 @@
 
 
-# <h1 align="left">Hello World 👋! I'am Mau</h1>
-###
-<h2>a passionate frontend developer from Brazil ! 🇧🇷</h2>
-
+# <div align="left"><h1 align="left">Hello World 👋! I'am Mau</h1><h2>a passionate frontend developer from Brazil ! 🇧🇷</h2></div>
 Frontend Developer | React | Next.js | JavaScript | Node.js | Scrum
 
 🛜 currently working on my own [webpage](https://mauricioassenco.com/)<br>👨🏼‍🎓 Studying more and more about new technologies<br>👨🏼‍💻 working as a web developer since 2019 
@@ -81,8 +78,6 @@ Frontend Developer | React | Next.js | JavaScript | Node.js | Scrum
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/mauassenco/mauassenco/output/snake.svg" alt="Snake animation" />
 
 ###
 <picture>
