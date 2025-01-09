@@ -1,6 +1,7 @@
 
 
-# <h1 align="left">Hello World 👋! I'am Mau</h1><h2>a passionate frontend developer from Brazil ! 🇧🇷</h2>
+# <h1 align="left">Hello World 👋! I'am Mau</h1>
+#<h2>a passionate frontend developer from Brazil ! 🇧🇷</h2>
 
 <h3>Frontend Developer | React | Next.js | JavaScript | Node.js | Scrum</h3>
 
