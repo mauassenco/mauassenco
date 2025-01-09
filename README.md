@@ -1,6 +1,6 @@
 
 
-# Hello World 👋! I'am Mau<br><h6>a passionate frontend developer from Brazil ! 🇧🇷</h6><br>
+# Hello World 👋 ! I'am Mau<br>, a passionate frontend developer from Brazil ! 🇧🇷<br>
 Frontend Developer | React | Next.js | JavaScript | Node.js | Scrum
 
 🛜 currently working on my own [webpage](https://mauricioassenco.com/)<br>👨🏼‍🎓 Studying more and more about new technologies<br>👨🏼‍💻 working as a web developer since 2019 
