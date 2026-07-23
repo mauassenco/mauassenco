@@ -1,7 +1,7 @@
 
 
 # Hello World 👋 ! I'am Mau , a passionate frontend developer from Brazil ! 🇧🇷<br>
-Frontend Developer | React | Next.js | JavaScript | Node.js | Scrum
+Frontend Developer | React | Next.js | JavaScript | TypeScript | Node.js | Scrum
 
 🛜 currently working on my own [webpage](https://mauricioassenco.com/)<br>👨🏼‍🎓 Studying more and more about new technologies<br>👨🏼‍💻 working as a web developer since 2019 
 ###
